@@ -7,6 +7,10 @@
     <groupId>com.dbbyte</groupId>
     <artifactId>sbsecurity</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
 
+    <modules>
+        <module>MySQLimplementation</module>
+    </modules>
 
 </project>
