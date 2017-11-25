@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SbsecuritymysqlApplication {
+public class SecurityMySqlApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SbsecuritymysqlApplication.class, args);
+		SpringApplication.run(SecurityMySqlApplication.class, args);
 	}
 }
